@@ -1,0 +1,44 @@
+
+h1 {
+    margin-top: 40px;
+}
+
+.left_col {
+    margin-top: 24px;
+}
+
+.right_col{
+    margin-top: 30px;
+}
+
+
+.input_fields_left{
+    margin-top: 30px;
+}
+
+.input_fields_right {
+    margin-top: 30px;
+}
+
+.send_btn {
+    margin-top: 20px;
+    width: 100px;
+}
+
+
+.for_table {
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+.hidden {
+    display: none;
+}
+
+
+table td {
+    border: 1px solid black;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+}
